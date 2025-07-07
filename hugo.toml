@@ -1,0 +1,22 @@
+theme = "PaperMod"
+baseURL = 'https://thehomelabguide.com/'
+languageCode = 'en-us'
+title = 'The Homelab Guide'
+pagination.PagerSize = 5
+
+[params]
+  author = "Charles Jordan"
+  defaultTheme = "auto"  # light/dark mode support
+  homeInfoParams = {Title = "Private Servers, Public Knowledge",Content = "Welcome to The Homelab Guide — simple, focused tutorials to help you self-host apps, secure your network, and reclaim your data."}
+
+[[menu.main]]
+identifier = "youtube"
+name = "YouTube"
+url = "https://www.youtube.com/@TheHomelabGuide"
+weight = 1
+
+[[menu.main]]
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/thehomelabguide"
+weight = 2
