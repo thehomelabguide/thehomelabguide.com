@@ -27,6 +27,10 @@ enableRobotsTXT = true
     name = "youtube"
     url = "https://www.youtube.com/@TheHomelabGuide"
 
+  [[params.socialIcons]]
+    name = "tiktok"
+    url = "https://www.tiktok.com/@TheHomelabGuide"
+
 [menu]
 [[menu.main]]
   name = "Home"
