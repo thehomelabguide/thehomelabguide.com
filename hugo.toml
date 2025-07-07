@@ -31,6 +31,10 @@ enableRobotsTXT = true
     name = "tiktok"
     url = "https://www.tiktok.com/@TheHomelabGuide"
 
+  [[params.socialIcons]]
+    name = "instagram"
+    url = "https://www.instagram.com/thehomelabguide"
+
 [menu]
 [[menu.main]]
   name = "Home"
